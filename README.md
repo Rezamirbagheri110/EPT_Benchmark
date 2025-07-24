@@ -50,8 +50,7 @@ The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critic
   <img src="output/yes_percentage_radar_qwen.png" width="30%" alt="Qwen 3"/>
 </div>
 
-**Left**: All models overview | **Center**: Claude 3.7 Sonnet (Best: 89.6%) | **Right**: Qwen 3 (Needs improvement: 70.4%)
-
+**Left**: All models overview | **Center**: Claude 3.7 Sonnet | **Right**: Qwen 3
 ## 🏆 Key Findings
 
 - **🥇 Top Performer**: Claude 3.7 Sonnet (89.6% avg, SD=4.05) - Most consistent across all dimensions
@@ -117,7 +116,7 @@ We welcome contributions from researchers, developers, and cultural experts:
 
 - 📖 Expand the dataset with additional Persian cultural contexts
 - 🔧 Improve evaluation methodologies
-- 🌐 Add support for other underrepresented languages
+- 🌐 Add support for other underrepresented languages in iran
 - 📊 Enhance statistical analysis methods
 
 ---
