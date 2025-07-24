@@ -28,7 +28,7 @@ The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critic
 
 ## 🔬 Evaluated Models
 
-- **ChatGPT (GPT-4o)** | **Claude 3.7 Sonnet** | **Gemini 2.5 Pro** | **DeepSeek v3**
+- **ChatGPT-4o** | **Claude 3.7 Sonnet** | **Gemini 2.5 Pro** | **DeepSeek v3**
 - **Grok 3** | **LLaMA 3.3** | **Mistral 3** | **Qwen 3**
 
 ## 📈 Results Overview
@@ -80,7 +80,7 @@ The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critic
 ## 🛠️ Methodology
 
 ### Dataset Construction
-- **1,200 comprehensive, non-redundant prompts** (200 per dimension)
+- **1,200 comprehensive, non-redundant prompts** (200 for each aspect)
 - Expert consultation with Persian-Islamic cultural specialists
 - Binary compliance assessment (compliant/non-compliant)
 - Cultural validation for linguistic accuracy
