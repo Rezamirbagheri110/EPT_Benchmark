@@ -9,7 +9,7 @@
 The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critical gap in AI trustworthiness evaluation by providing a robust framework for Persian-language contexts. As LLMs face substantial challenges including hallucination, bias perpetuation, privacy violations, and inconsistent behavior, the need for systematic trustworthiness assessment becomes urgent.
 
 ### Key Features
-- **🎯 Trustworthiness-Focused**: Systematic evaluation across 6 critical dimensions
+- **💠 Trustworthiness-Focused**: Systematic evaluation across 6 critical dimensions
 - **🔬 Multi-Model Comparison**: Benchmarks 8 leading LLMs
 - **📊 Rigorous Validation**: Combines automated and human expert evaluation
 - **🌍 Cultural Sensitivity**: Tailored for Persian-Islamic values and contexts
