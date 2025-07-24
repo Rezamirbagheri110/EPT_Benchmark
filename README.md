@@ -28,7 +28,7 @@ The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critic
 
 ## 🔬 Evaluated Models
 
-- **ChatGPT-4o** | **Claude 3.7 Sonnet** | **Gemini 2.5 Pro** | **DeepSeek v3**
+- **GPT-4o** | **Claude 3.7 Sonnet** | **Gemini 2.5 Pro** | **DeepSeek v3**
 - **Grok 3** | **LLaMA 3.3** | **Mistral 3** | **Qwen 3**
 
 ## 📈 Results Overview
