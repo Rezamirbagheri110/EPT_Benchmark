@@ -53,12 +53,15 @@ The **EPT (Evaluation of Persian Trustworthiness)** benchmark addresses a critic
 **Left**: All models overview | **Center**: Claude 3.7 Sonnet | **Right**: Qwen 3
 ## 🏆 Key Findings
 
-- **🥇 Top Performer**: Claude 3.7 Sonnet (89.6% avg, SD=4.05) - Most consistent across all dimensions
+- **🥇 Top Performer**: Claude 3.7 Sonnet (89.62% avg, SD=4.05) - Most consistent across all dimensions
 - **⚠️ Critical Gap**: Safety is the weakest dimension across all models
-- **📉 Underperformer**: Qwen 3 (70.4% avg, SD=11.46) - Particularly poor in Safety (48.8%)
+- **📉 Underperformer**: Qwen 3 (70.357% avg, SD=11.46) - Particularly poor in Safety (48.75%)
 - **🎯 Best in Class**: 
   - Ethics: Mistral 3 (91.5%)
-  - Robustness: Gemini 2.5 Pro & GPT-4o (93.0%)
+  - Fairness: Claude 3.7 Sonnet (93.03%)
+  - Privacy: Grok 3 (88.56%)
+  - Robustness: Gemini 2.5 Pro & GPT-4o (93.03%)
+  - Safety: Claude 3.7 Sonnet (92.04%)
   - Truthfulness: Grok 3 (93.5%)
 
 ## 📋 Benchmark Comparison
